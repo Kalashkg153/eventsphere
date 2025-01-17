@@ -1,6 +1,5 @@
 'use client';
 
-import page from "@/app/page";
 import EventCard from "@/components/EventCard";
 import Spinner from "@/components/Spinner";
 import { api } from "@/convex/_generated/api";
